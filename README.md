@@ -1,1 +1,1 @@
-# seam-carving
+# CS-128 : MP : Seam Carver
